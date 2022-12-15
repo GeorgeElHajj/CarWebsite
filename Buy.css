@@ -54,7 +54,7 @@ nav a{
  .nav-links .active, .nav-links a:hover{
     color:black;
     background: white;
-    padding: 5px;
+    padding: 10px;
 }
 #nohov .active, #nohov:hover{
     background:transparent;

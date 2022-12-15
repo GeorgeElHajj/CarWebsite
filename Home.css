@@ -32,7 +32,7 @@ nav{
 .nav-links {
     display: flex;
     justify-content: space-around;
-    width: 50%; /*rj3la */
+    width: 50%; 
 }
 .nav-links li {
     list-style: none;
@@ -49,7 +49,7 @@ nav{
  .nav-links .active, .nav-links a:hover{
     color:black;
     background: white;
-    padding: 5px;
+    padding: 10px;
 }
 #nohov .active, #nohov:hover{
     background:none;
